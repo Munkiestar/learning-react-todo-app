@@ -6,7 +6,7 @@ function Form({setInputText, todos, setTodos, inputText}) {
         console.log(e.target.value);
         setInputText(e.target.value);
     };
-    console.log(todos);
+    // console.log(todos);
     const handleTodoSubmit = e => {
         e.preventDefault();
         setTodos([...todos, {text: inputText, completed: false, id: Math.random() * 1000000}]);
