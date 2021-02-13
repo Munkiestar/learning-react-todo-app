@@ -8,7 +8,7 @@ Some key Aspects:
 - Shows added Todos
 - Shows/Filter All, Completed and Uncompleted Todos
 - You can Delete and Check Completed Todos
-- Clickable Markers on Map show Country stats
+
 
 ![Todo App](./src/img/showcase.png)
 
