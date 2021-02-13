@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e49763c-455c-4c9e-92ab-85fa61dd96fe" name="Default Changelist" comment="render written todos as a list">
+    <list default="true" id="7e49763c-455c-4c9e-92ab-85fa61dd96fe" name="Default Changelist" comment="handling buttons: completed and delete todos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todo/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/Form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TodoList/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoList/TodoList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613220635584</updated>
-      <workItem from="1613220636827" duration="18418000" />
+      <workItem from="1613220636827" duration="21449000" />
     </task>
     <task id="LOCAL-00001" summary="adding some basic functionality">
       <created>1613226797745</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613238781441</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="handling buttons: completed and delete todos">
+      <created>1613240352389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613240352389</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +133,8 @@
     <MESSAGE value="adding Materialise UI and Todo component" />
     <MESSAGE value="connecting form and input with State" />
     <MESSAGE value="render written todos as a list" />
-    <option name="LAST_COMMIT_MESSAGE" value="render written todos as a list" />
+    <MESSAGE value="handling buttons: completed and delete todos" />
+    <option name="LAST_COMMIT_MESSAGE" value="handling buttons: completed and delete todos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
